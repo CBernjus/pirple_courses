@@ -1,6 +1,8 @@
 [submodule "javascript"]
 	path = javascript
 	url = https://github.com/CBernjus/pirple_javascript
+	branch = master
 [submodule "python"]
 	path = python
 	url = https://github.com/CBernjus/pirple_python
+	branch = master
